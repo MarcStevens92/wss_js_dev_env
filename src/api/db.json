@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 82096181,
+      "firstName": "Sabryna",
+      "lastName": "Pouros",
+      "email": "Levi.Wintheiser52@yahoo.com"
+    },
+    {
+      "id": 25289609,
+      "firstName": "Maximo",
+      "lastName": "Hane",
+      "email": "Antonetta.Beier@gmail.com"
+    },
+    {
+      "id": 37409564,
+      "firstName": "Chadd",
+      "lastName": "Waters",
+      "email": "Hettie.Hills0@yahoo.com"
+    },
+    {
+      "id": 2184697,
+      "firstName": "Lorena",
+      "lastName": "Reilly",
+      "email": "Adela90@hotmail.com"
+    },
+    {
+      "id": 39521248,
+      "firstName": "Alberta",
+      "lastName": "Mitchell",
+      "email": "Sandrine92@hotmail.com"
+    }
+  ]
+}
